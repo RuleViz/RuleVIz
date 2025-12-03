@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there! 👋
 
-<!--
-**RuleViz/RuleVIz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Independent Full-Stack Developer** passionate about building scalable web applications and exploring AI technologies.
 
-Here are some ideas to get you started:
+- 🛠️ **Tech Stack:**
+  - **Languages:** Java, TypeScript, JavaScript
+  - **Frontend:** HTML5, CSS3, (React/Vue/Angular - *如果你会的话建议加上框架名*)
+  - **Interest:** Artificial Intelligence & LLMs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Current Status:**
+  - I'm actively looking for a **Remote Internship**.
+  - Ready to contribute to open-source projects or join a dynamic team.
+
+- 📫 **How to reach me:** [你的邮箱] or [你的LinkedIn/Twitter]
